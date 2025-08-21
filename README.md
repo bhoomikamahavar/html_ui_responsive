@@ -13,4 +13,4 @@ Live Demo: https://bhoomikamahavar.github.io/html_ui_responsive/
 <img width="1440" height="714" alt="screencapture-bhoomikamahavar-github-io-html-ui-responsive-login-html-2025-08-22-00_37_48" src="https://github.com/user-attachments/assets/50edb401-718f-4f91-8405-b5a20a8c562d" />
 
 <h2>Covid Page</h2>
-<img width="1440" height="714" alt="screencapture-bhoomikamahavar-github-io-html-ui-responsive-login-html-2025-08-22-00_37_48" src="https://github.com/user-attachments/assets/012f4e08-df14-4577-8088-53549212c191" />
+<img width="1440" height="714" alt="screencapture-bhoomikamahavar-github-io-html-ui-responsive-covid-html-2025-08-22-00_38_12" src="https://github.com/user-attachments/assets/6231f664-d21f-41cc-8e22-10bafd73bc0c" />
